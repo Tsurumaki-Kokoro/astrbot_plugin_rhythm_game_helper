@@ -1,7 +1,7 @@
 name: astrbot_plugin_rhythm_game_helper
 display_name: 音游助手
-desc: 音游知识查询与聊天联动插件，目前为初始化基础模板。
-version: v0.1.0
+desc: 音游知识检索、聊天联动、收录审核及 IIDX 专项知识库分流。
+version: v0.4.0
 author: Tsurumaki-Kokoro
 repo: https://github.com/Tsurumaki-Kokoro/astrbot_plugin_rhythm_game_helper
 astrbot_version: ">=4.29.1"
